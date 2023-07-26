@@ -1,4 +1,4 @@
-# poker-planner
+# The Estimator
 IT Planner Alternative
 
 Credits
